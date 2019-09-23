@@ -5,7 +5,7 @@
         <api_name>sn_alok1.bbb1</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
-        <description>mod</description>
+        <description>mod x</description>
         <name>bbb1</name>
         <script><![CDATA[var bbb1 = Class.create();
 bbb1.prototype = {
@@ -18,13 +18,13 @@ bbb1.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-09-23 15:40:10</sys_created_on>
         <sys_id>26e97735770000104d4eb5b2681061fd</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>bbb1</sys_name>
         <sys_package display_value="alok1" source="sn_alok1">96636f35770000104d4eb5b26810612b</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="alok1">96636f35770000104d4eb5b26810612b</sys_scope>
         <sys_update_name>sys_script_include_26e97735770000104d4eb5b2681061fd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-23 15:43:14</sys_updated_on>
+        <sys_updated_on>2019-09-23 16:44:41</sys_updated_on>
     </sys_script_include>
 </record_update>
