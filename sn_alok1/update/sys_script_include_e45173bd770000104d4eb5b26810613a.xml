@@ -2,29 +2,29 @@
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
         <active>true</active>
-        <api_name>sn_alok1.red</api_name>
+        <api_name>sn_alok1.br2</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
         <description/>
-        <name>red</name>
-        <script><![CDATA[var red = Class.create();
-red.prototype = {
+        <name>br2</name>
+        <script><![CDATA[var br2 = Class.create();
+br2.prototype = {
     initialize: function() {
     },
 
-    type: 'red'
+    type: 'br2'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-09-23 14:04:22</sys_created_on>
-        <sys_id>cd142775770000104d4eb5b2681061eb</sys_id>
+        <sys_created_on>2019-09-23 15:02:14</sys_created_on>
+        <sys_id>e45173bd770000104d4eb5b26810613a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>red</sys_name>
+        <sys_name>br2</sys_name>
         <sys_package display_value="alok1" source="sn_alok1">96636f35770000104d4eb5b26810612b</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="alok1">96636f35770000104d4eb5b26810612b</sys_scope>
-        <sys_update_name>sys_script_include_cd142775770000104d4eb5b2681061eb</sys_update_name>
+        <sys_update_name>sys_script_include_e45173bd770000104d4eb5b26810613a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-23 14:04:22</sys_updated_on>
+        <sys_updated_on>2019-09-23 15:02:14</sys_updated_on>
     </sys_script_include>
 </record_update>
