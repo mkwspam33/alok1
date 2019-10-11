@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="gg1_user" name="gg1_user">77bb9db2775000104d4eb5b268106162</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-08 16:58:18</sys_created_on>
+        <sys_id>7fbb9db2775000104d4eb5b268106196</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>77bb9db2775000104d4eb5b268106162</sys_name>
+        <sys_package display_value="alok1" source="sn_alok1">96636f35770000104d4eb5b26810612b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="alok1">96636f35770000104d4eb5b26810612b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7fbb9db2775000104d4eb5b268106196</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-08 16:58:18</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
